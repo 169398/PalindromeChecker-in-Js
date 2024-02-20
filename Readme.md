@@ -27,10 +27,6 @@ I used used several styles to carryout this just for learning
 
 4. Copy the code from `palindrome.js` and use it in your project or simply run it in your browser's developer console. 🚀
 
-## Example
-
-Here's how you can use the provided JavaScript code to check if a number is a palindrome:
-
 
 
 Contribution
