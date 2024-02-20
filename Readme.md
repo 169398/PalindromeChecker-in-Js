@@ -12,7 +12,7 @@ To check if a number is a palindrome using the provided JavaScript code:
 
 1. Clone this repository to your local machine: 🖥️
 
-git clone https://github.com/your-username/palindrome-checker.git
+git clone https://github.com/169398/PalindromeChecker-in-Js
 
 markdown
 Copy code
@@ -31,10 +31,16 @@ I used used several styles to carryout this just for learning
 
 Here's how you can use the provided JavaScript code to check if a number is a palindrome:
 
-```javascript
+
 
 Contribution
 Contributions are welcome! If you have any suggestions, improvements,  feel free to open an issue or create a pull request. 🤝🔧
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details. 📜🔏
+
+
+
+Made with ❤️  by Idris kulubi 👨‍💻
+
+HAPPY CODING 🤗 
